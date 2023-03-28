@@ -35,4 +35,4 @@ https://salty-anchorage-95276.herokuapp.com/
 
 # Acknowledgements:
 
-The starter code was provided by our teacher assissant. I also worked in a study group with multiple students.
+The starter code was provided by our teacher assistant. I also worked in a study group with multiple students.
